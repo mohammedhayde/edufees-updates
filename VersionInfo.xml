@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.0.1.0</version>
+  <url>https://github.com/mohammedhayde/edufees-updates/releases/download/v1.0.1.0/EduFees_Update_1.0.1.0.exe</url>
+  <args>/SILENT /SUPPRESSMSGBOXES /NORESTART /SP- /APPDIR="%path%"</args>
+  <checksum algorithm="SHA256">69EB6B3D00C7F4B49C9C93DF5441A1CAA66757B09EED629D73148A7B93D7A652</checksum>
+  <changelog>https://github.com/mohammedhayde/edufees-updates/releases/tag/v1.0.1.0</changelog>
+  <mandatory>true</mandatory>
+</item>
